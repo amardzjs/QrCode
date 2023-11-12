@@ -1,0 +1,58 @@
+body
+{
+
+    background-color:#D5E1EF;
+    
+    
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+
+
+
+}
+
+.main
+{
+    width:220px;
+    background-color:#FFFFFF;
+    border-radius:20px;
+    text-align:center;
+    padding:10px;
+    
+
+}
+
+
+
+
+img
+{
+    width:220px;
+    height:220px;
+    border-radius:15px;
+    
+}
+
+p
+{
+    font-family: 'Noto Sans Display', sans-serif;
+}
+
+
+#heading
+{
+    font-weight:bold;
+    color:#252F46;
+
+}
+
+#mini-text
+{
+    color:#A6A9B4;
+}
